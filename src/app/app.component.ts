@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'MakeMyTrip';
+  
+  sidebar:boolean=true
+  sidebartoggle(){
+    this.sidebar=!this.sidebar
+  }
 }

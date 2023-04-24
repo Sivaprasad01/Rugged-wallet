@@ -1,0 +1,24 @@
+
+.row{
+    margin-top: 25px;
+}
+.boxx2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+*{
+    overflow-x: hidden;
+
+}
+.hdng{
+    overflow-y: hidden;
+}
+form{
+    margin-right: 60px;
+    margin-bottom: 50px;
+}
+form li{
+    margin-bottom: 2px;
+}

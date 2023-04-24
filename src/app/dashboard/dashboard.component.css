@@ -1,0 +1,14 @@
+
+
+.row{
+    margin-top: 25px;
+}
+.boxx2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
+html{
+overflow-x  : hidden;
+}

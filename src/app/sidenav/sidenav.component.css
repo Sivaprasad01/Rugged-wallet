@@ -1,0 +1,44 @@
+*{
+    width: 220px;
+}
+h2{
+    font-weight: 300;
+    padding-left: 25px;
+    padding-top: 16px;
+}
+.pages{
+    display: flex;
+    flex-direction: column;
+}
+/* .pages a{
+    text-decoration: none;
+    height: 50px;
+    padding-left: 25px;
+    padding-top: 16px;
+    font-size: larger;
+
+} */
+
+
+
+.xpand p:hover{
+    background-color: gainsboro;
+    color: black;
+    /* font-size: larger; */
+    box-shadow: 2px 3px 2px gray;
+    padding: 5px;
+}
+
+.xpand{
+    box-shadow: 2px 3px 2px gray;
+    margin-bottom: 3px;
+}
+.xpand1{
+    text-decoration: none;
+    color: white;
+    box-shadow: 2px 3px 2px gray;
+    margin-bottom: 3px;
+    font-size: 15px;
+    padding: 12px;
+    padding-left: 32px;
+}

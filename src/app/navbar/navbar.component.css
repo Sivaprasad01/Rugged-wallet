@@ -1,0 +1,18 @@
+
+.icon{
+
+    display: flex;
+    flex-direction: row;
+}
+.search{
+margin-left: 20px;
+}
+
+/* .navbar{
+    position: sticky;
+    top: 2px;
+} */
+
+.nav-item{
+    margin-left: 870px;
+}
